@@ -1,4 +1,5 @@
-![github-header-image (2)](https://github.com/Gautam327/Gautam327/assets/153065911/3b2bb744-5218-49cd-bcb5-19145559d0f7)
+
+![github-header-image (4)](https://github.com/Gautam327/Gautam327/assets/153065911/a6fe7240-a429-4b13-a5f8-fad727e1cd10)
 
 
 <h3 align="center">Mern Stack developer </h3>
