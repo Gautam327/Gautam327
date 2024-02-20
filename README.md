@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gautam327</h1>
+<h1 align="center">Hi 👋, I'm Gautam Pathak</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam327&label=Profile%20views&color=0e75b6&style=flat" alt="gautam327" /> </p>
