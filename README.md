@@ -1,5 +1,5 @@
 
-![github-header-image (4)](https://github.com/Gautam327/Gautam327/assets/153065911/a6fe7240-a429-4b13-a5f8-fad727e1cd10)
+![github-header-image (5)](https://github.com/Gautam327/Gautam327/assets/153065911/3edda582-3697-4899-a04b-8e51f8332dbb)
 
 
 <h3 align="center">Mern Stack developer </h3>
